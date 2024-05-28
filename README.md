@@ -1,6 +1,6 @@
 # GameSpace
 
-You are requested to see the deployed version of this project, you can check it out by visiting this [link](https://gamespace-33gv.onrender.com/).
+You are requested to see the deployed version of this project, you can check it out by visiting this [link](https://gamespace-33gv.onrender.com/) {This might can take upto 30 seconds as i am using free version of onrender}.
 
 ## About the project
 
